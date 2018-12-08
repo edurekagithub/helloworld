@@ -1,7 +1,7 @@
 package test2;
 
 /**
- * Some doc
+ * Some doc for release 1.0
  * @author snowleopard
  *
  */
